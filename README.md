@@ -16,3 +16,16 @@
 
 ![miskaamo GitHub stats](https://github-stats-extended.vercel.app/api?username=miskaamo&show_icons=true&theme=dark) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=miskaamo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://komarev.com/ghpvc/?username=miskaamo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miskaamo/miskaamo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miskaamo/miskaamo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miskaamo/miskaamo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
