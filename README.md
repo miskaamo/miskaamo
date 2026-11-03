@@ -29,3 +29,12 @@
 </picture>
 
 ###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/miskaamo/miskaamo/snake-output/snake.svg" alt="Snake animation" />
+
+###
