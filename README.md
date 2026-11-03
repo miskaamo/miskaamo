@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Aziz a.k.a Miska 👋
 
 <!--
 **miskaamo/miskaamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**A young learner with big dreams and endless curiosity. Just a curious mind exploring the world of programming. Turning ideas into reality, one line of code at a time. Always eager to learn, experiment, and dive deeper into technology. Still growing, still exploring, and never stop improving. This is just the beginning of my journey.**
+
+![thisgif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyNjh3ZjNkYzBxcTBodGo2bTVzcHB0eG10cHFqOGYwaXk1NWE3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/o2KLYPem407CM/giphy.gif)
